@@ -1,0 +1,23 @@
+java high level programming language-oops
+java used to create API, web application
+platform independent
+
+language to interact with machine- programming language
+run time -while executing
+compile time -before running the code.
+
+JVM- complies line by line while typing
+JRE- libraries, JVM
+JDK- software development kit includes JRE
+
+object- instance of class eg:
+java pure case sensitive
+
+conditional statement: if, else, if else, switch
+
+1,121. best time to buy the
+238.
+53.153,560,88,,448,33,
+
+int-use return
+void-use system.out.println
